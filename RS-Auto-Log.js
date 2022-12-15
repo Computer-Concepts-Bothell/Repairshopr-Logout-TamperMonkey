@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RS-Auto-Log
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Auto Logs out of RepairShopr After 10 minutes
 // @author       HeruEdhel@Pixelbays
 // @include      https://*.repairshopr.com/*

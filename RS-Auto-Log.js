@@ -9,6 +9,7 @@
 // @updateURL    https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log
 // @downloadURL  https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=repairshopr.com
+// @supportURL   https://github.com/Pixelbays/Repairshopr-Logout-TamperMonkey/issues
 // @grant        none
 // ==/UserScript==
 

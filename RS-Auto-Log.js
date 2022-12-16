@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RS-Auto-Log
 // @namespace    https://github.com/Pixelbays/Repairshopr-Logout-TamperMonkey
-// @version      0.2
+// @version      0.2.1
 // @description  Auto Logs out of RepairShopr After 10 minutes
 // @author       HeruEdhel@Pixelbays
 // @include      https://*.repairshopr.com/*

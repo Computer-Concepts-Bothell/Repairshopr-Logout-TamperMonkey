@@ -7,6 +7,8 @@ If you use the script you can change the var to whatever you need.
 
 ### Versions
 
+0.3.2: Added a Debug var that when set to true will output the vars I care about while testing every 1 sec
+0.3.1: Fixed a problem with the script logging a user out right after they login.
 0.3: MULTITAB support! Big rewrite to allow for multitab support. The activty timer is now global and should reset on any RS tab activty. Please report bugs 
 0.2.1: Working release, will auto logout of repair shopr after ten minutes. works for each tab so multitab users will get kicked if not working in them all 
 0.1: Failed release. To many bugs

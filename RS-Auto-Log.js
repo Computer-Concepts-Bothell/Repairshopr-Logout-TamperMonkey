@@ -6,8 +6,8 @@
 // @author       HeruEdhel@Pixelbays
 // @include      https://*.repairshopr.com/*
 // @exclude      https://*.repairshopr.com/users/sign_in*
-// @updateURL    https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log
-// @downloadURL  https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log
+// @updateURL    https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log.js
+// @downloadURL  https://raw.githubusercontent.com/Pixelbays/Repairshopr-Logout-TamperMonkey/main/RS-Auto-Log.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=repairshopr.com
 // @supportURL   https://github.com/Pixelbays/Repairshopr-Logout-TamperMonkey/issues
 // @grant        GM_setValue
